@@ -13,24 +13,26 @@ tags: ["8110", "Unimog"]
 categories: []
 ---
 
-The first version of the Unimog 8110 was staying on the shelf for almost a year before I decided to try to improve it. 
+The first version of the [Unimog 8110]({{< ref "/posts/8110-unimog-v01" >}}) was staying on the shelf for almost a year before I decided to improve it. 
 
-The front and rear axles remain the same. I added a second XL motor for driving and connected it to the first one through a differential. Unlike the original set, I decided to use a 28 bevel tooth differential for the center differential. The reason for this decision is the easier placement and connection of the XL motors. I took non-original LEGO compatible motors which have higher RPM than the original ones to get higher speed. The truck also got a center differential lock activated by a CaDA micromotor.
+The front and rear axles remain the same. I added a second XL motor for driving and connected them both to the center differential. Unlike the original set, I decided to use a 28 bevel tooth differential here. The reason for this decision is the easier placement and connection of the XL motors. 
 
-Unfortunately, the center differential turned out to be a weak point. Due to the lack of support, it sometimes made a crackling sound under load, especially when changing direction. A possible solution I thought of is to add two beams on the left and right instead of 14 tooth gears. But in this case, I would have lost the ability to lock the differential, which is necessary for the test truck.
+I took non-original LEGO compatible motors which have higher RPM than the original ones to get higher speed. The truck also got a center differential lock activated by a CaDA micromotor.
+
+Unfortunately, the center differential turned out to be a weak point. Due to the lack of support, it sometimes made a crackling sound under load, especially when changing driving direction. A possible solution I thought of is to add two beams on the left and right instead of 14 tooth gears. But in this case, I would have lost the ability to lock the differential, which is necessary for the trial truck.
 
 <!--more-->
 
 ## Specs 
 * Steering: PF Servo motor, based on [MOC-3286](https://rebrickable.com/mocs/MOC-3286/jb70/8110-unimog-moc-rc/#details)
 * Propulsion: 2 * PF XL motor - both connected to the central differential
-* Differentials in axles are open (no locks)
+* Open differentials in axles are (no locks)
 * Lockable center differential (CaDa micro motor)
 * Turning diameter (by wheels):
 	* Central diff open: 120cm
 	* Central diff closed: 125cm
 * Front PTO: PF L motor
-* Rear PTO: None
+* Rear PTO: none
 * Without pneumatics
 * 3 PF receivers - 2 receivers operate on the same channel and each controls its own XL motor used for propulsion, the third receiver controls the front PTO and the central diff lock
 * Custom rear LED lights

@@ -18,12 +18,8 @@ toc:
 
 <!--more-->
 
-Based on and inspired by the following MOCs:
-* Chassis, gearbox: [MOC-31127](https://rebrickable.com/mocs/MOC-31127/Superkoala/buwizz-motorized-chassis-for-set-42110-land-rover-defender/#details)
-* Front and rear axles with planetary hubs:
-[MOC-102990](https://rebrickable.com/mocs/MOC-102990/gamayun/motorised-defender-v3/)
-* Ackermann steering: [MOC-41043](https://rebrickable.com/mocs/MOC-41043/jmarshall/42110-landrover-defender-ackermann-steering-modification)
-* Bodywork: [MOC-35068](https://rebrickable.com/mocs/MOC-35068)
+Logical continuation of [42110 Land Rover Defender Chassis, v0.3]({{< ref "/posts/42110-landrover-defender-chassis-v03" >}}) - finally everything is put together.
+The bodywork is based on [MOC-35068](https://rebrickable.com/mocs/MOC-35068).
 
 ## Specs
 * Propulsion: 2 PF L motors

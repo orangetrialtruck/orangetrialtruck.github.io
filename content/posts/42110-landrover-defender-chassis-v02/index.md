@@ -16,7 +16,7 @@ toc:
   enable: false
 ---
 
-The second version of the Land Rover Defender chassis. It got Ackermann steering and some changes were made to the gearbox and transmission. 
+The second version of the Land Rover Defender chassis. Compared to the [first version]({{< ref "/posts/42110-landrover-defender-chassis-v03" >}}), it got Ackermann steering and some changes were made to the gearbox and transmission. 
 
 Despite all efforts, the design of the gearbox and transmission turned out to be not reliable enough; when passing over obstacles (even in low gear), it sometimes made a crackling noise. The weight balance was also far from ideal - the rear part of the chassis was heavier than the front. After adding a body, the weight balance shifted back even more. 
 

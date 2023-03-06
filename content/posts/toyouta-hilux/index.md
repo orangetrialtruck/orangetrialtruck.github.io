@@ -15,7 +15,7 @@ categories: ["top"]
 
 <!--more-->
 
-This model was designed by: [RM8 LEGO Garage - BrickGarage](https://rebrickable.com/mocs/MOC-126570/). I added custom LED lights (front and rear) and modified the steering box a bit to fit a Chinese servo motor that can only turn 90°.
+This model was designed by: [RM8 LEGO Garage - BrickGarage](https://rebrickable.com/mocs/MOC-126570/). I added custom LED lights (front and rear), modified the steering mechanism a bit (to fit a Chinese servo motor that can only turn 90°), replaced regular LEGO cardan joints with the metal ones.
 
 ## Specs:
 * Steering: PF Servo motor
