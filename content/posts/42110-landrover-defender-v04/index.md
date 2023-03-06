@@ -10,7 +10,7 @@ resources:
   src: "images/featured_image.jpg"
 
 tags: ["42110", "Land Rover Defender"]
-categories: ["top"]
+categories: ["hightlights"]
 
 toc:
   enable: false
@@ -18,7 +18,7 @@ toc:
 
 <!--more-->
 
-Logical continuation of [42110 Land Rover Defender Chassis, v0.3]({{< ref "/posts/42110-landrover-defender-chassis-v03" >}}) - finally everything is put together.
+Logical continuation of [42110 Land Rover Defender Chassis, v0.3]({{< ref "/posts/42110-landrover-defender-chassis-v03" >}}) - finally everything is put together!
 The bodywork is based on [MOC-35068](https://rebrickable.com/mocs/MOC-35068).
 
 ## Specs

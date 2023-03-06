@@ -28,11 +28,11 @@ enableEmoji = true
 [menu]
   [[menu.main]]
     weight = 1
-    identifier = "top"
+    identifier = "hightlights"
     pre = ""
     post = ""
-    name = "Top models"
-    url = "/categories/top"
+    name = "Hightlights"
+    url = "/categories/hightlights"
     title = ""
   [[menu.main]]
     weight = 2

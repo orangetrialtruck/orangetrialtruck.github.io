@@ -10,7 +10,7 @@ resources:
   src: "images/featured_image.jpg"
 
 tags: ["Toyota Hilux"]
-categories: ["top"]
+categories: ["hightlights"]
 ---
 
 <!--more-->
