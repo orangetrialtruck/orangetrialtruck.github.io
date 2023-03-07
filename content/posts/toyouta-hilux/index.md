@@ -28,4 +28,10 @@ This model was designed by: [RM8 LEGO Garage - BrickGarage](https://rebrickable.
 
 ## Photos
 
-{{< gallery match="images/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="none" embedPreview=true loadJQuery=true >}}
+### 62mm LEGO tyres
+
+{{< gallery match="images/tires62/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="none" embedPreview=true loadJQuery=true >}}
+
+### 78mm RC tyres
+
+{{< gallery match="images/rctires78/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="none" embedPreview=true loadJQuery=true >}}

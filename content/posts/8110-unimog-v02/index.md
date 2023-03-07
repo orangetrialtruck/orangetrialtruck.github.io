@@ -25,8 +25,8 @@ Unfortunately, the center differential turned out to be a weak point. Due to the
 
 ## Specs 
 * Steering: PF Servo motor, based on [MOC-3286](https://rebrickable.com/mocs/MOC-3286/jb70/8110-unimog-moc-rc/#details)
-* Propulsion: 2 * PF XL motor - both connected to the central differential
-* Open differentials in axles are (no locks)
+* Propulsion: 2 * PF XL motors - both connected to the central differential
+* Open differentials in axles (no locks)
 * Lockable center differential (CaDa micro motor)
 * Turning diameter (by wheels):
 	* Central diff open: 120cm
