@@ -16,9 +16,11 @@ toc:
   enable: false
 ---
 
+The third version of the Land Rover Defender chassis. To date, this is the most successful version.
+
 <!--more-->
 
-To date, the most successful motorization of the Land Rover Defender chassis. Based on and inspired by the following MOCs:
+Based on and inspired by the following MOCs:
 * Chassis, gearbox: [MOC-31127](https://rebrickable.com/mocs/MOC-31127/Superkoala/buwizz-motorized-chassis-for-set-42110-land-rover-defender/#details)
 * Front and rear axles with planetary hubs:
 [MOC-102990](https://rebrickable.com/mocs/MOC-102990/gamayun/motorised-defender-v3/)

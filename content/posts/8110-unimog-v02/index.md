@@ -15,7 +15,7 @@ categories: []
 
 The first version of the [Unimog 8110]({{< ref "/posts/8110-unimog-v01" >}}) was staying on the shelf for almost a year before I decided to improve it. 
 
-The front and rear axles remain the same. I added a second XL motor for driving and connected them both to the center differential. Unlike the original set, I decided to use a 28 bevel tooth differential here. The reason for this decision is the easier placement and connection of the XL motors. 
+The front and rear axles remain the same. I added a second XL motor for driving and connected them both to the center differential. Unlike the original set, I decided to use a [28 bevel tooth differential](https://rebrickable.com/parts/62821b/technic-gear-differential-with-inner-tabs-and-closed-center-28-bevel-teeth-beveled-edge/) here. The reason for this decision is the easier placement and connection of the XL motors. 
 
 I took non-original LEGO compatible motors which have higher RPM than the original ones to get higher speed. The truck also got a center differential lock activated by a CaDA micromotor.
 
@@ -34,7 +34,7 @@ Unfortunately, the center differential turned out to be a weak point. Due to the
 * Front PTO: PF L motor
 * Rear PTO: none
 * Without pneumatics
-* 3 PF receivers - 2 receivers operate on the same channel and each controls its own XL motor used for propulsion, the third receiver controls the front PTO and the central diff lock
+* 3 PF receivers - 2 receivers operate on the same channel and each controls its own XL motor, the third receiver controls the front PTO and the central diff lock
 * Custom rear LED lights
 * Powered by 3 x 18650 LiPo batteries with a DC step down converter
 
