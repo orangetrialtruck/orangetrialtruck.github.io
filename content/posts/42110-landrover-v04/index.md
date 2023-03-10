@@ -16,17 +16,16 @@ toc:
   enable: false
 ---
 
-Logical continuation of [42110 Land Rover Defender Chassis, v0.3]({{< ref "/posts/42110-landrover-chassis-v03" >}}) - finally everything is put together!
+Logical continuation of [42110 Land Rover Defender chassis, v0.3]({{< ref "/posts/42110-landrover-chassis-v03" >}}) - finally everything is put together! I decided to move away from the original Land Rover bodywork and build something lighter and more attractive. I found this great [MOC-35068](https://rebrickable.com/mocs/MOC-35068) on [Rebrickable](https://rebrickable.com) which I based my solution on. The back door is sacrificed in favor of the strength of the body.
 
 <!--more-->
-
-The bodywork is based on [MOC-35068](https://rebrickable.com/mocs/MOC-35068).
 
 ## Specs
 * Propulsion: 2 PF L motors
 * Steering: PF Servo motor
 * Planetary wheel hubs
 * Open differentials in axles
+* Full-time AWD with lockable center differential
 * Two speed gearbox with neutral, switched by a PF M motor
 * Turning diameter (by wheels):
 	* 1st gear (central diff closed): 110cm
@@ -34,7 +33,7 @@ The bodywork is based on [MOC-35068](https://rebrickable.com/mocs/MOC-35068).
 * Winch: 1 CaDa micromotor. The winch is powerful enough to pull the model.
 * No fake engine
 * Working steering wheel
-* 3 PF receivers - 2 receivers operate on the same channel and each control its own L motor used for propulsion, the third receiver controls the winch and gearbox switching
+* 3 PF receivers - 2 receivers operate on the same channel and each control its own L motor, the third receiver controls the winch and gearbox switching
 * Custom LED lights (front and rear)
 * Powered by 4 x 14500 LiPo batteries with a DC step down converter
 * Good weight balance

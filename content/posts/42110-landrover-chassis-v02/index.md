@@ -1,5 +1,5 @@
 ---
-title: "42110 Land Rover Defender Chassis, v0.2"
+title: "42110 Land Rover Defender chassis, v0.2"
 date: 2022-10-15T10:12:47+01:00
 # subtitle: "october 2022"
 draft: false
@@ -9,7 +9,7 @@ resources:
 - name: "featured-image"
   src: "images/featured_image.jpg"
 
-tags: ["42110", "Land Rover Defender"]
+tags: ["42110", "Land Rover Defender", "WIP"]
 categories: []
 
 toc:
@@ -18,9 +18,9 @@ toc:
 
 The second version of the Land Rover Defender chassis. Compared to the [first version]({{< ref "/posts/42110-landrover-chassis-v03" >}}), it got Ackermann steering and some changes were made to the gearbox and transmission. 
 
-Despite all efforts, the design of the gearbox and transmission turned out to be not reliable enough; when passing over obstacles (even in low gear), it sometimes made a crackling noise. The weight balance was also far from ideal - the rear part of the chassis was heavier than the front. After adding a body, the weight balance shifted back even more. 
+Despite all efforts, the design of the gearbox and transmission turned out to be not reliable enough; when passing over obstacles (even in low gear), it sometimes made a crackling noise. The weight balance was also far from ideal - the rear part of the chassis was heavier than the front. After adding a body, the weight balance shifted back even more. The steering mechanism also needs to be improved - too much backlash.
 
-It was a good start with Land Rover, but I decided to take this chassis apart and look for a better solution.
+It was a good start, but I decided to take this chassis apart and look for a better solution.
 
 <!--more-->
 
@@ -36,8 +36,7 @@ Based on: [MOC-102990](https://rebrickable.com/mocs/MOC-102990/gamayun/motorised
 * No fake engine
 * Working steering wheel
 * Blue 3L pins in the body changed to black ones
-* 3 PF receivers - 2 receivers operate on the same channel and each controls its own L motor 
-used for propulsion, the third receiver controls the winch
+* 3 PF receivers - 2 receivers operate on the same channel and each controls its own L motor, the third receiver controls the winch
 * Powered by a 2S LiPo battery
 * Curb weight with the standard 42110 body: 2.2 kg
 

@@ -9,7 +9,7 @@ resources:
 - name: "featured-image"
   src: "images/featured_image.jpg"
 
-tags: ["8110", "Unimog"]
+tags: ["8110", "Unimog", "WIP"]
 categories: []
 ---
 
@@ -26,8 +26,8 @@ Unfortunately, the center differential turned out to be a weak point. Due to the
 ## Specs 
 * Steering: PF Servo motor, based on [MOC-3286](https://rebrickable.com/mocs/MOC-3286/jb70/8110-unimog-moc-rc/#details)
 * Propulsion: 2 * PF XL motors - both connected to the central differential
+* Full-time AWD with lockable center differential (CaDa micro motor)
 * Open differentials in axles (no locks)
-* Lockable center differential (CaDa micro motor)
 * Turning diameter (by wheels):
 	* Central diff open: 120cm
 	* Central diff closed: 125cm

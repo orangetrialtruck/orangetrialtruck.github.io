@@ -13,7 +13,7 @@ tags: ["8110", "Unimog"]
 categories: []
 ---
 
-My first MOD of the LEGO 8110 Unimog set. I bought it on the secondary market without pneumatic parts and decided to make a trial truck out of it. I kept the original exterior and interior, removed the transfer case, added separate motors for the front and rear PTOs and an XL motor for driving and a servo for steering. The truck is driven by only one XL motor, which does not provide enough power. The CaDA battery drains quickly, which degrades the performance.
+My first MOD of the LEGO [8110 Unimog U400](https://rebrickable.com/sets/8110-1/unimog-u400/) set. I bought it on the secondary market without pneumatic parts and decided to make a trial truck out of it. I kept the original exterior and interior, removed the transfer case, added separate motors for the front and rear PTOs, an XL motor for driving and a servo for steering. Yes, the truck is driven by only one XL motor, which does not provide enough power. The CaDA battery block drains quickly, which degrades the performance.
 
 <!--more-->
 

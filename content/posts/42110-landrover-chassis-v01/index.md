@@ -1,5 +1,5 @@
 ---
-title: "42110 Land Rover Defender Chassis, v0.1"
+title: "42110 Land Rover Defender chassis, v0.1"
 date: 2022-09-04T17:10:47+01:00
 # subtitle: "september 2022"
 draft: false
@@ -9,18 +9,18 @@ resources:
 - name: "featured-image"
   src: "images/featured_image.jpg"
 
-tags: ["42110", "Land Rover Defender"]
+tags: ["42110", "Land Rover Defender", "WIP"]
 categories: []
 
 toc:
   enable: false
 ---
 
-Motorized Land Rover Defender 42110, first version. It uses two PF L motors for driving and a servo motor for steering. I took the chinese red motors which have higher RPM than the original ones to get higher speed. This version does not have a center differential.
+Motorized [42110 Land Rover Defender](https://rebrickable.com/sets/42110-1/land-rover-defender/#parts), first version. It has two PF L motors for driving and a servo motor for steering. I took the chinese red motors which have higher RPM than the original ones to get higher speed. This version does not have a center differential. All functions work, but I'm not satisfied with the performance and reliability of this version. Also, there is too much play in the steering mechanism.
 
 <!--more-->
 
-Based on: [MOC-102990](https://rebrickable.com/mocs/MOC-102990/gamayun/motorised-defender-v3/)
+Based on: [MOC-102990](https://rebrickable.com/mocs/MOC-102990/gamayun/motorised-defender-v3/) from [Rebrickable.com](https://rebrickable.com).
 
 ## Specs
 * PF Motors (1 Servo, 2 L Red motors)
@@ -32,7 +32,7 @@ Based on: [MOC-102990](https://rebrickable.com/mocs/MOC-102990/gamayun/motorised
 * No central differential
 * No fake engine
 * Working steering wheel
-* 3 PF receivers - 2 receivers operate on the same channel and each controls its own L motor used for propulsion, the third receiver controls the winch
+* 3 PF receivers - 2 receivers operate on the same channel and each controls its own L motor, the third receiver controls the winch and the gearbox.
 * Powered by a 2S LiPo battery
 
 ## Photos

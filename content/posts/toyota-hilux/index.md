@@ -13,14 +13,18 @@ tags: ["Toyota Hilux"]
 categories: ["hightlights"]
 ---
 
-<!--more-->
+This model was designed by [RM8 LEGO Garage - BrickGarage](https://rebrickable.com/mocs/MOC-126570/). This was the first time I built not an original LEGO set, but someone's model (MOC) from instructions. I really like the model, it looks beautiful on the shelf and at the same time has excellent playability.
 
-This model was designed by: [RM8 LEGO Garage - BrickGarage](https://rebrickable.com/mocs/MOC-126570/). I added custom LED lights (front and rear), modified the steering mechanism a bit (to fit a Chinese servo motor that can only turn 90°), replaced regular LEGO cardan joints with the metal ones.
+I added custom LED lights (front and rear), modified the steering mechanism a bit (to fit a Chinese servo motor that can only turn 90°) and replaced regular LEGO cardan joints with the metal ones.
+
+<!--more-->
 
 ## Specs:
 * Steering: PF Servo motor
 * Propulsion: PF XL motor
+* Full-time AWD
 * Gearing: 24x24 -> 12:28 (new differentials). Gear ratio: 2.33:1
+* Turning diameter (by wheels): 136cm
 * Custom LED lights (front and rear)
 * Metal cardan joints
 * Powered by 3 x 14500 LiPo batteries with a DC step down converter

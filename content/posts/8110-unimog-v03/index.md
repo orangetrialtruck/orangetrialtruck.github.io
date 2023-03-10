@@ -19,20 +19,20 @@ DESCR
 ## Specs 
 * Steering: PF Servo motor, based on [MOC-3286](https://rebrickable.com/mocs/MOC-3286/jb70/8110-unimog-moc-rc/#details)
 * Propulsion: 2 * PF XL motors
-* No center differential, the motors are hard-coupled
+* Full-time AWD drive without center differential
 * Open differentials in axles (no locks)
-* Turning diameter (by wheels): XXXXX
+* Turning diameter (by wheels): 132cm
 * Front PTO: PF L motor
 * Rear PTO: PF M motor
+* Both PTO motors are activated by separate PF switches
 * Without pneumatics
-* 3 PF receivers - 2 receivers operate on the same channel and each controls its own XL motor used for propulsion, the third receiver controls the front PTO and the central diff lock
-* Custom rear LED lights
+* 2 PF receivers - 2 receivers operate on the same channel and each controls its own XL motor
+* Custom front and rear LED lights. The LEDs are always on, but since they have standard PF connectors, they can easily be connected via PF switches.
 * Powered by 3 x 18650 LiPo batteries with a DC step down converter
 
 ### Gearing: 
 
 1:1 (knobs in the center) -> 12:28 (new differentials in axles) -> 8:24 (portals)
-
 Final ratio: 6.99:1
 
 ## Photos

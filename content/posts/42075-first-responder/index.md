@@ -16,7 +16,7 @@ toc:
   enable: false
 ---
 
-My LEGO Technic journey started with the motorization of the 42075 First Responder set. I added motors for driving, steering and custom LEDs. I like the result, the car has excellent playability (especially in the dark - thanks to the bright LEDs), although, of course, there is still room for improvement.
+My LEGO Technic journey started with the motorization of the [42075 First Responder](https://rebrickable.com/sets/42075-1/first-responder/) set in the summer of 2021. I added motors for driving, steering and installed custom LEDs. I like the result, the car has excellent playability (especially in the dark - thanks to the bright LEDs), although, of course, there is still room for improvement.
 
 <!--more-->
 

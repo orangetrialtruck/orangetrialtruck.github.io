@@ -1,5 +1,5 @@
 ---
-title: "42110 Land Rover Defender Chassis, v0.3"
+title: "42110 Land Rover Defender chassis, v0.3"
 date: 2022-11-05T19:45:47+01:00
 # subtitle: "november 2022"
 draft: false
@@ -9,14 +9,14 @@ resources:
 - name: "featured-image"
   src: "images/featured_image.jpg"
 
-tags: ["42110", "Land Rover Defender"]
+tags: ["42110", "Land Rover Defender", "WIP"]
 categories: []
 
 toc:
   enable: false
 ---
 
-The third version of the Land Rover Defender chassis. To date, this is the most successful version.
+The third version of the Land Rover Defender chassis. To date, this is the most successful version. All functions work well, the gearbox does not slip even under load. The connection between the servo motor and the steering rack is half that of the previous version, resulting in less steering play. Let's see how the chassis will behave after adding the Land Rover's massive body!
 
 <!--more-->
 
@@ -36,7 +36,7 @@ Based on and inspired by the following MOCs:
 * Winch: 1 CaDa micro motor
 * No fake engine
 * Working steering wheel
-* 3 PF receivers - 2 receivers operate on the same channel and each control its own L motor used for propulsion, the third receiver controls the winch and gearbox switching
+* 3 PF receivers - 2 receivers operate on the same channel and each control its own L motor, the third receiver controls the winch and gearbox switching
 * Powered by 4 x 14500 LiPo batteries with a DC step down converter
 
 ### Gearing: 
