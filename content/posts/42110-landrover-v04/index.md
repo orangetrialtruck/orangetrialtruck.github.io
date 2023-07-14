@@ -22,7 +22,7 @@ I really like the resulting model, it has excellent playability. Thanks to the t
 The LED headlights look very natural, there are no visible wires on the outside. 
 When they're turned off, they're almost indistinguishable from the headlights on the original model. Both the headlights and the taillights are bright enough for driving in the dark.
 
-The model also looks great on the shelf. I used non-original PF receivers operating at 2.4 GHz, which allowed them to be completely hidden inside the body. The LiPo battery is also hidden inside. The power switch is located inside the decorative gray trunk. I used black 3L pins instead of blue ones in all visible places and covered the holes in the technic beams with system plates.
+The model also looks great on the shelf. I used non-original PF receivers operating at 2.4 GHz, which allowed them to be completely hidden inside the body. The LiPo battery is also hidden inside. The power switch is located inside the decorative gray trunk. I used black 3L pins instead of blue ones in all visible places and covered the holes in the technic beams with system tiles.
 
 <!--more-->
 

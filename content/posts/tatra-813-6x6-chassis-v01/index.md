@@ -8,7 +8,7 @@ resources:
 - name: "featured-image"
   src: "images/featured_image.jpg"
 
-tags: ["tatra"]
+tags: ["Tatra"]
 categories: []
 ---
 
