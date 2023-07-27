@@ -1,5 +1,5 @@
 ---
-title: "Toyota Hilux"
+title: "RM8 Toyota Hilux"
 date: 2023-01-08T10:00:01+08:00
 draft: false
 description: ""

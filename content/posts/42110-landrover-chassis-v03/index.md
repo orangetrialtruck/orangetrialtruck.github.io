@@ -1,5 +1,5 @@
 ---
-title: "42110 Land Rover Defender chassis, v0.3"
+title: "42110 Land Rover Defender chassis, v3"
 date: 2022-11-05T19:45:47+01:00
 # subtitle: "november 2022"
 draft: false
