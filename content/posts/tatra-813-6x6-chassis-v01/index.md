@@ -1,5 +1,5 @@
 ---
-title: "Tatra 813 6x6 Chassis v0.1"
+title: "Tatra 813 6x6 Chassis v1"
 date: 2023-05-27T19:00:00+08:00
 draft: false
 description: ""

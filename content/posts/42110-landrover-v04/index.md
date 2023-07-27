@@ -1,5 +1,5 @@
 ---
-title: "42110 Land Rover Defender, v0.4"
+title: "42110 Land Rover Defender, v4"
 date: 2023-01-15T23:59:59+01:00
 draft: false
 description: ""
@@ -15,7 +15,7 @@ toc:
   enable: false
 ---
 
-This is the final version of my motorized Land Rover Defender 42110, featuring the [v0.3 chassis]({{< ref "/posts/42110-landrover-chassis-v03" >}}). Instead of the original Land Rover Defender body, I opted for a lighter and more attractive design. I came across an excellent [MOC-35068](https://rebrickable.com/mocs/MOC-35068) on Rebrickable which I based my solution on. I sacrificed the back door for the strength of the body.
+This is the final version of my motorized Land Rover Defender 42110, featuring the [v3 chassis]({{< ref "/posts/42110-landrover-chassis-v03" >}}). Instead of the original Land Rover Defender body, I opted for a lighter and more attractive design. I came across an excellent [MOC-35068](https://rebrickable.com/mocs/MOC-35068) on Rebrickable which I based my solution on. I sacrificed the back door for the strength of the body.
 
 I really like the resulting model, it has excellent playability. Thanks to the two-speed RC gearbox, it can move quickly on high gear and easily overcome obstacles on low gear. [Wheel hubs with planetary gear reduction](https://rebrickable.com/parts/46490/wheel-hub-with-planetary-gear-reduction/) provide excellent "off-road" capability, and the car's weight balance makes it easy to climb 40-degree slopes. The weak point of the chassis - a protruding 16-tooth gear - is covered with an overlay made of curved slopes that protects the gear when passing obstacles. The center differential enables smooth turns, while the robust chassis and gearbox prevent gear slipping and crunching when driving over obstacles. Additionally, the RC winch is powerful enough to pull the model.
 
@@ -43,7 +43,7 @@ The model also looks great on the shelf. I used non-original PF receivers operat
 * Custom LED lights
 * Powered by 4 x 14500 LiPo batteries with a DC step down converter
 * Good weight balance
-* Curb weight: 2,0 kg (without batteries - 1,85 kg)
+* Curb weight: 2.0 kg (without batteries - 1,85 kg)
 
 ### Gearing: 
 

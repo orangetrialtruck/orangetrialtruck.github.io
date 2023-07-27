@@ -1,5 +1,5 @@
 ---
-title: "8110 Unimog MOD, v0.2"
+title: "8110 Unimog MOD, v2"
 date: 2023-01-28T01:21:32+08:00
 draft: false
 description: ""
@@ -17,7 +17,7 @@ The first version of the [Unimog 8110]({{< ref "/posts/8110-unimog-v01" >}}) was
 
 The front and rear axles remain the same. I added a second XL motor for driving and connected them both to the center differential. Unlike the original set, I decided to use a [28 bevel tooth differential](https://rebrickable.com/parts/62821b/technic-gear-differential-with-inner-tabs-and-closed-center-28-bevel-teeth-beveled-edge/) here. The reason for this decision is the easier placement and connection of the XL motors. 
 
-I took non-original XL motors (Red Furious), which have higher RPM than the original ones, to achieve higher speed.  The truck also got a center differential lock activated by a CaDA micromotor.
+I took non-original XL motors, which have higher RPM than the original ones, to achieve higher speed.  The truck also got a center differential lock activated by a CaDA micromotor.
 
 Unfortunately, the center differential turned out to be a weak point. Due to the lack of support, it sometimes made a crackling sound under load, especially when changing driving direction. A possible solution I thought of is to add two beams on the left and right instead of 14 tooth gears. But in this case, I would have lost the ability to lock the differential, which is necessary for the trial truck.
 
@@ -25,7 +25,7 @@ Unfortunately, the center differential turned out to be a weak point. Due to the
 
 ## Specs 
 * Steering: PF Servo motor, based on [MOC-3286](https://rebrickable.com/mocs/MOC-3286/jb70/8110-unimog-moc-rc/#details)
-* Propulsion: 2 * PF XL motors (non-original, "Red Furious") - both connected to the central differential
+* Propulsion: 2 * PF XL motors (non-original with higher RPM) - both connected to the central differential
 * Full-time AWD with lockable center differential (CaDA micro motor)
 * Open differentials in axles (no locks)
 * Turning diameter (by wheels):

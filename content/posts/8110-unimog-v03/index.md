@@ -1,5 +1,5 @@
 ---
-title: "8110 Unimog MOD v0.3 - Orange trial truck"
+title: "8110 Unimog MOD v3 - Orange trial truck"
 date: 2023-03-23T05:00:32+08:00
 draft: false
 description: ""
@@ -8,7 +8,7 @@ resources:
 - name: "featured-image"
   src: "images/featured_image.jpg"
 
-tags: ["8110", "Unimog"]
+tags: ["8110", "Unimog", "video"]
 categories: ["highlights"]
 ---
 
@@ -19,7 +19,7 @@ This is the third (and final, for now) version of my trial truck built from the 
 ## Chassis
 
 The main difference with the [previous version]({{< ref "/posts/8110-unimog-v02" >}}) is the absence of a center differential. The motors are now rigidly connected through the [knobs](https://rebrickable.com/parts/32072/technic-knob-wheel/), which has slightly increased the speed and significantly improved the transmission's reliability - the gears no longer slip or crunch even on tough obstacles.\
-As in the [previous version]({{< ref "/posts/8110-unimog-v02" >}}), I took non-original XL motors (Red Furious), which have higher RPM than the original ones, to achieve higher speed. And I painted the motors black.
+As in the [previous version]({{< ref "/posts/8110-unimog-v02" >}}), I took non-original XL motors, which have higher RPM than the original ones, to achieve higher speed. And I painted the motors black.
 
 I also added custom LED headlights and taillights. They are always on when the power is on, but since they have standard PF connectors, they can be connected through a separate [PF switch](https://rebrickable.com/parts/61929c02/pole-reverser-power-functions-black-wire/).
 
@@ -37,7 +37,7 @@ Instead of the original gray panel body, I made a lightweight orange trial-style
 
 ## Specs 
 * Steering: PF Servo motor, based on [MOC-3286](https://rebrickable.com/mocs/MOC-3286/jb70/8110-unimog-moc-rc/#details)
-* Propulsion: 2 * PF XL motors (non-original, "Red Furious")
+* Propulsion: 2 * PF XL motors (non-original with higher RPM)
 * 4x4 drive, no center differential
 * Open differentials in axles (no locks)
 * Turning diameter (by wheels): 132cm
@@ -48,7 +48,7 @@ Instead of the original gray panel body, I made a lightweight orange trial-style
 * 2 PF receivers - 2 receivers operate on the same channel and each controls its own XL motor
 * Custom front and rear LED lights. The LEDs are always on, but since they have standard PF connectors, they can easily be connected via PF switches.
 * Powered by 3 x 18650 LiPo batteries with a DC step down converter
-* Curb weight: 2,15 kg (without batteries - 1,95 kg)
+* Curb weight: 2.15 kg (without batteries - 1,95 kg)
 
 ### Gearing: 
 
@@ -57,6 +57,9 @@ Final ratio: 6.99:1
 
 ## Video 
 {{< youtube C9eqJYyLOuw >}}
+\
+\
+{{< youtube 22BTZ_fIphE >}}
 
 ## Photos
 
