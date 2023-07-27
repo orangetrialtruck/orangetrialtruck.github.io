@@ -43,7 +43,7 @@ The model also looks great on the shelf. I used non-original PF receivers operat
 * Custom LED lights
 * Powered by 4 x 14500 LiPo batteries with a DC step down converter
 * Good weight balance
-* Curb weight: 2,0 kg (without batteries - 1,85 kg)
+* Curb weight: 2.0 kg (without batteries - 1,85 kg)
 
 ### Gearing: 
 

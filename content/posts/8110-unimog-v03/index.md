@@ -48,7 +48,7 @@ Instead of the original gray panel body, I made a lightweight orange trial-style
 * 2 PF receivers - 2 receivers operate on the same channel and each controls its own XL motor
 * Custom front and rear LED lights. The LEDs are always on, but since they have standard PF connectors, they can easily be connected via PF switches.
 * Powered by 3 x 18650 LiPo batteries with a DC step down converter
-* Curb weight: 2,15 kg (without batteries - 1,95 kg)
+* Curb weight: 2.15 kg (without batteries - 1,95 kg)
 
 ### Gearing: 
 
