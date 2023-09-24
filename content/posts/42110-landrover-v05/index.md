@@ -16,13 +16,14 @@ toc:
 ---
 
 This is an updated version of the [Land Rover Defender 42110 v0.4]({{< ref "/posts/42110-landrover-v04" >}}). 
-Changes:
-* The [12](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32270&name=Technic,%20Gear%2012%20Tooth%20Double%20Bevel&category=%5BTechnic,%20Gear%5D#T=S&O={%22iconly%22:0})/[20](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32269&utm_source=rebrickable#T=S&O={%22iconly%22:0}) double bevel gears in the gearbox replaced with [12](https://www.bricklink.com/v2/catalog/catalogitem.page?P=69778&name=Technic,%20Gear%2012%20Tooth&category=%5BTechnic,%20Gear%5D#T=S&O={%22iconly%22:0})/[20](https://www.bricklink.com/v2/catalog/catalogitem.page?P=69779&name=Technic,%20Gear%2020%20Tooth&category=%5BTechnic,%20Gear%5D#T=S&C=153&O={%22color%22:153,%22iconly%22:0}) gears to reduce friction
-* Improved gearbox mounting, increased chassis rigidity
-* Better placement of electronics, fewer wires in the body
-* The body is built in the stock version
 
 <!--more-->
+
+Changes:
+* The [12](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32270&name=Technic,%20Gear%2012%20Tooth%20Double%20Bevel&category=%5BTechnic,%20Gear%5D#T=S&O={%22iconly%22:0})/[20](https://www.bricklink.com/v2/catalog/catalogitem.page?P=32269&utm_source=rebrickable#T=S&O={%22iconly%22:0}) double bevel gears in the gearbox replaced with [12](https://www.bricklink.com/v2/catalog/catalogitem.page?P=69778&name=Technic,%20Gear%2012%20Tooth&category=%5BTechnic,%20Gear%5D#T=S&O={%22iconly%22:0})/[20](https://www.bricklink.com/v2/catalog/catalogitem.page?P=69779&name=Technic,%20Gear%2020%20Tooth&category=%5BTechnic,%20Gear%5D#T=S&C=153&O={%22color%22:153,%22iconly%22:0}) gears to reduce friction
+* Improved gearbox mounting, significantly increased chassis rigidity
+* Better placement of electronics, fewer wires in the body
+* The body is built in the stock version
 
 ## Specs
 * Propulsion: 2 PF Red L motors

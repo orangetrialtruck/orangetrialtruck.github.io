@@ -57,6 +57,9 @@ Final ratio: 6.99:1
 
 ## Video 
 {{< youtube C9eqJYyLOuw >}}
+\
+\
+{{< youtube 22BTZ_fIphE >}}
 
 ## Photos
 
