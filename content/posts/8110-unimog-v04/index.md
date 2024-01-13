@@ -1,5 +1,5 @@
 ---
-title: "Der Unimog - 8110 MOD v4 (with RC electronics)"
+title: "Der Unimog - 8110 MOD v4 (with 4L motors and RC electronics)"
 date: 2023-12-01T05:00:32+08:00
 draft: false
 description: ""
@@ -8,7 +8,7 @@ resources:
 - name: "featured-image"
   src: "images/featured_image.jpg"
 
-tags: ["8110", "Unimog", "video"]
+tags: ["8110", "Unimog", "video", "RC"]
 categories: ["highlights"]
 ---
 
@@ -27,8 +27,8 @@ The cabin is almost the same as in the [previous version]({{< ref "/posts/8110-u
 * Open differentials in axles (no locks)
 * Two speed gearbox switched by a Geek Servo
 * Turning diameter (by wheels):
-	* 1st gear (central diff closed): 
-	* 2nd gear (central diff open): 
+	* 1st gear (central diff closed): 136cm
+	* 2nd gear (central diff open): 140cm
 * Front PTO: PF L motor
 * Rear PTO: None
 * Without pneumatics
@@ -48,7 +48,6 @@ The cabin is almost the same as in the [previous version]({{< ref "/posts/8110-u
 \
 {{< youtube j3TlonIBoYM >}}
 
-
 ### Body
 
 {{< gallery match="images/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="none" embedPreview=true loadJQuery=true >}}
@@ -57,3 +56,9 @@ The cabin is almost the same as in the [previous version]({{< ref "/posts/8110-u
 
 {{< gallery match="images/chassis-details/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="none" embedPreview=true loadJQuery=true >}}
 
+### Radio configuration
+
+#### End points: 
+* 1ch (steering): 93%
+* 3ch (gearbox): 32%
+* 4ch (winch): 47%
