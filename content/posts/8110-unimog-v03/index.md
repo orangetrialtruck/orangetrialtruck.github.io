@@ -8,8 +8,8 @@ resources:
 - name: "featured-image"
   src: "images/featured_image.jpg"
 
-tags: ["8110", "Unimog", "video"]
-categories: ["highlights"]
+tags: ["8110", "Unimog", "video", "Mercedes"]
+categories: []
 ---
 
 This is the third (and final, for now) version of my trial truck built from the LEGO [8110 Unimog U400](https://rebrickable.com/sets/8110-1/unimog-u400/) set. In this version, I managed to fix some issues with the chassis and improve the overall appearance. Thanks to [portal hubs](https://rebrickable.com/parts/92908/technic-steering-portal-axle-housing/) and new differentials, the truck is powerful enough, but at the same time it's not a crawler, it's fun to play with both inside and outside.

@@ -8,7 +8,7 @@ resources:
 - name: "featured-image"
   src: "images/featured_image.jpg"
 
-tags: ["8110", "Unimog", "WIP"]
+tags: ["8110", "Unimog", "WIP", "Mercedes"]
 categories: []
 hiddenFromHomePage: false
 ---

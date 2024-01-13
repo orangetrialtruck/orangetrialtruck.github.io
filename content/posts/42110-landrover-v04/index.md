@@ -35,7 +35,7 @@ The model also looks great on the shelf. I used non-original PF receivers operat
 * Two speed gearbox with neutral, switched by a PF M motor
 * Turning diameter (by wheels):
 	* 1st gear (central diff closed): 110cm
-	* 2nd gear (central diff open: 108cm
+	* 2nd gear (central diff open): 108cm
 * Winch: 1 CaDA micromotor. The winch is powerful enough to pull the model.
 * No fake engine
 * Working steering wheel

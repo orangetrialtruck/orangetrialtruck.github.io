@@ -17,4 +17,4 @@ This week my garage on the shelf looks like this: [Toyota Hilux]({{< ref "/posts
 
 I have started to modify the [42082 (Rough Terrain Crane)](https://rebrickable.com/sets/42082-1/rough-terrain-crane/). The plans are to make it fully RC. The first step - disassembling the stock version - is done! 
 
-{{< figure src="/posts/mygarage-mar-2023/images/YPYS107847.JPG" >}}
+{{< figure src="/images/YPYS107847.JPG" >}}

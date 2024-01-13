@@ -38,7 +38,7 @@ The gearbox and both differentials are protected by panels.
 * Turning diameter (by wheels): 126cm
 * No fake engine
 * Working steering wheel
-* Opeanable doors, bonnet and trunk
+* Openable doors, bonnet and trunk
 * 3 PF receivers - 2 receivers operate on the same channel and each control its own L motor, the third receiver controls the gearbox
 * Custom LED lights
 * Powered by 3 x 14500 LiPo batteries with a DC step down converter (V<sub>out</sub>=10V)

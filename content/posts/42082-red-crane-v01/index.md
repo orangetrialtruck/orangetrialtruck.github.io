@@ -12,7 +12,7 @@ tags: ["42082", "Rough Terrain Crane", "video"]
 categories: ["highlights"]
 ---
 
-This is my MOD of the official [42082](https://rebrickable.com/sets/42082-1/rough-terrain-crane/) set. Like many others, I wasn't happy with the playablity of the original set, so I decided to improve it.
+This is my MOD of the official [42082](https://rebrickable.com/sets/42082-1/rough-terrain-crane/) set. Like many others, I wasn't happy with the playability of the original set, so I decided to improve it.
 
 <!--more-->
 

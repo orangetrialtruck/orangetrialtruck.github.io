@@ -18,11 +18,11 @@ hiddenFromHomePage: false
 
 This is my first attempt at motorizing the LEGO [42110 Land Rover Defender](https://rebrickable.com/sets/42110-1/land-rover-defender/) set. It features two PF L motors for driving and a servo motor for steering. I used non-original motors, which have higher RPM than the original ones, to achieve higher speed. The center differential is absent. The two-speed gearbox is shifted by a CaDA micro motor.
 
-All functions work fine, but I am disappointed with the performance and reliability of this version - the gears sometimes slip and crunch when driving over obstacles. Also, there is too much play in the steering mechanism.
+All functions work fine, but I'm disappointed with the performance and reliability of this version - the gears sometimes slip and crunch when driving over obstacles. Also, there is too much play in the steering mechanism.
 
 <!--more-->
 
-Based on: [MOC-102990](https://rebrickable.com/mocs/MOC-102990/gamayun/motorised-defender-v3/) from [Rebrickable.com](https://rebrickable.com).
+Based on: [MOC-102990](https://rebrickable.com/mocs/MOC-102990/gamayun/motorised-defender-v3/).
 
 ## Specs
 * PF Motors (1 Servo, 2 L Red motors)
