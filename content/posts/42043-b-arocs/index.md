@@ -26,8 +26,8 @@ categories: ["highlights"]
 * Custom front and rear LED lights
 * Powered by 3S LiPo (3x18650)
 * Receiver: FlySky Fs-R6b
-* Curb weight: 
-* XXX functions with remote control: driving, steering, 
+* Curb weight: 1.55 kg
+* XXX functions with remote control: driving, steering, fifth wheel lock, fake engine
 
 ### Gearing: 
 
@@ -42,6 +42,6 @@ categories: ["highlights"]
 
 #### End points:
 
-* 1ch (steering):
+* 1ch (steering): 75%
 * 3ch (fake engine): 100%
-* 4ch (fifth wheel):
+* 4ch (fifth wheel): 47%

@@ -27,8 +27,8 @@ The cabin is almost the same as in the [previous version]({{< ref "/posts/8110-u
 * Open differentials in axles (no locks)
 * Two speed gearbox switched by a Geek Servo
 * Turning diameter (by wheels):
-	* 1st gear (central diff closed): 136cm
-	* 2nd gear (central diff open): 140cm
+	* 1st gear (central diff closed): 140cm
+	* 2nd gear (central diff open): 136cm
 * Front PTO: PF L motor
 * Rear PTO: None
 * Without pneumatics

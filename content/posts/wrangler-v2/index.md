@@ -36,7 +36,7 @@ The bodywork ideas was mostly taken from the great MOC [Jeep Wrangler - 42129 al
 
 I wanted the body to be all yellow and black, but unfortunately some parts don't exist in the colors I needed. I prefer to use only original LEGO bricks, but I don't hesitate to use aftermarket parts if don't see any other solution. For this case, I took [Technic Axle Pin with Friction Ridges](https://rebrickable.com/parts/43093/technic-axle-pin-with-friction-ridges-lengthwise/) in black color, [Technic Pin Connector Round 1L](https://rebrickable.com/parts/18654/technic-pin-connector-round-1l-beam/) in yellow and [Technic Pin Long with Friction Ridges](https://rebrickable.com/parts/32054/technic-pin-long-with-friction-ridges-lengthwise-and-stop-bush-3-lateral-holes-big-pin-hole/) also in yellow.
 
-In the end, I really like the result - the model exceeded my expectations in terms of playability! I also like the bodywork - it's not overloadad with details, but at the same time not too simple.
+In the end, I really like the result - the model exceeded my expectations in terms of playability! And I'm also happy with the bodywork - it's not overloadad with details, but at the same time not too simple.
 
 ## Specs
 * Propulsion: 4 PF-compatible L motors (non-original with higher RPM)
@@ -54,7 +54,7 @@ In the end, I really like the result - the model exceeded my expectations in ter
 * Opeanable doors, bonnet and trunk
 * Custom LED lights
 * Powered by 3s LiPO
-* Curb weight: 
+* Curb weight: 1.76
 
 ### Gearing: 
 
@@ -64,6 +64,10 @@ In the end, I really like the result - the model exceeded my expectations in ter
 
 ## Video 
 {{< youtube Zl4VALwgVxw >}}
+
+</br>
+
+{{< youtube WgcI-axbzYI >}}
 
 ## Photos
 
