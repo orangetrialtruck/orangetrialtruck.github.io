@@ -46,15 +46,15 @@ In the end, I really like the result - the model exceeded my expectations in ter
 * Open differentials in axles
 * Full-time AWD without center differential
 * Turning diameter (by wheels): 
-  * Front steering: 
-  * Rear steering: 
-  * Full steering: 
+  * Full steering: 96cm
+  * Front steering: 144cm
+  * Rear steering: 190cm
   * Crab steering:  ∞     
 * No fake engine
 * Opeanable doors, bonnet and trunk
 * Custom LED lights
 * Powered by 3s LiPO
-* Curb weight: 1.76
+* Curb weight: 1.76 kg
 
 ### Gearing: 
 

@@ -19,10 +19,12 @@ categories: ["highlights"]
 ## Specs 
 * Steering: Geek Servo motor
 * Propulsion: 2 * PF L motors
+* Fifth wheel lock: CaDA micro motor
+* Fake engine: Geek servo red motor
 * Full-time AWD without center differential
 * Open differentials in axles (no locks)
-* Turning diameter (by wheels):
-* Without pneumatics
+* Turning diameter (by wheels): 137cm
+* No pneumatics
 * Custom front and rear LED lights
 * Powered by 3S LiPo (3x18650)
 * Receiver: FlySky Fs-R6b
@@ -33,6 +35,10 @@ categories: ["highlights"]
 
 16:16 -> 12:20 -> 12:28 (diff in axles) -> 3.89:1
 
+
+### Chassis
+
+{{< gallery match="images/chassis/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="none" embedPreview=true loadJQuery=true >}}
 
 ### WIP
 
