@@ -5,7 +5,7 @@ languageCode = "en"
 languageName = "English"
 
 # default amount of posts in each pages
-paginate = 12
+pagination.pagerSize = 18
 # google analytics code [UA-XXXXXXXX-X]
 googleAnalytics = ""
 # copyright description used only for seo schema
@@ -132,14 +132,14 @@ enableEmoji = true
    
   # LoveIt NEW | 0.2.0 Section (all posts) page config
   [params.section]
-    paginate = 20
+    pagination.pagerSize = 20
     # time format: https://gohugo.io/functions/format/#gos-layout-string
     dateFormat = "Jan 2"
     rss = 10
 
   # LoveIt NEW | 0.2.0 List (category or tag) page config
   [params.list]
-    paginate = 20
+    pagination.pagerSize = 20
     dateFormat = "Jan 2"
     rss = 10
   
@@ -184,7 +184,7 @@ enableEmoji = true
     [params.home.posts]
       enable = true
       # special amount of posts in each home posts page
-      paginate = 20
+      pagination.pagerSize = 20
       # LoveIt DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
       # default behavior when you don't set "hiddenFromHomePage" in front matter
       defaultHiddenFromHomePage = false
