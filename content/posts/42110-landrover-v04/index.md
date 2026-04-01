@@ -13,6 +13,7 @@ categories: ["highlights"]
 
 toc:
   enable: false
+hiddenFromHomePage: true
 ---
 
 This is the final version of my motorized Land Rover Defender 42110, featuring the [v3 chassis]({{< ref "/posts/42110-landrover-chassis-v03" >}}). Instead of the original Land Rover Defender body, I opted for a lighter and more attractive design. I came across an excellent [MOC-35068](https://rebrickable.com/mocs/MOC-35068) on Rebrickable which I based my solution on. I sacrificed the back door for the strength of the body.
@@ -27,7 +28,7 @@ The model also looks great on the shelf. I used non-original PF receivers operat
 <!--more-->
 
 ## Specs
-* Propulsion: 2 PF L motors
+* Driving: 2 PF L motors
 * Steering: PF Servo motor
 * Planetary wheel hubs
 * Open differentials in axles

@@ -10,6 +10,7 @@ resources:
 
 tags: ["Tatra"]
 categories: []
+hiddenFromHomePage: true
 ---
 
 Attempt to make a Tatra 813 6x6 chassis. The design of the axles and transmission was taken from the [8x8 Tatra T813 Trial truck](https://rebrickable.com/mocs/MOC-109209/Horcikdesigns/pdf-8x8-tatra-t813-trial-truck/#details) by Horcikdesigns. I used 2 L motors for propulsion and a servo motor for steering. The left and right drivetrains are independent of each other. The chassis has a two-speed gearbox shifted by an M motor.\

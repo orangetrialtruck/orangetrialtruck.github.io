@@ -14,7 +14,7 @@ categories: []
 
 toc:
   enable: false
-hiddenFromHomePage: false
+hiddenFromHomePage: true
 ---
 
 This is the second version of the Land Rover Defender chassis. Compared to the [first version]({{< ref "/posts/42110-landrover-chassis-v03" >}}), it now features Ackermann steering and some changes were made to the gearbox and transmission.

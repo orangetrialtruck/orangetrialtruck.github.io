@@ -20,7 +20,7 @@ Now I can truly call it a 'trial truck'! :)
 
 ## Specs 
 * Steering: Geek Servo motor
-* Propulsion: 4 * PF L motors (non-original with higher RPM)
+* Driving: 4 * PF L motors (non-original with higher RPM)
 * Full-time AWD with lockable center differential in the low gear
 * Open differentials in the front axle
 * Locking differential in the rear axle (GeekServo motor)

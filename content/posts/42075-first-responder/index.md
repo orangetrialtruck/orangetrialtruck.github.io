@@ -4,6 +4,7 @@ date: 2021-07-11T19:32:00+01:00
 draft: false
 description: ""
 images: []
+hiddenFromHomePage: true
 resources:
 - name: "featured-image"
   src: "images/featured_image.jpg"
@@ -23,7 +24,7 @@ I began my LEGO Technic journey in the summer of 2021 by motorizing the [42075 F
 
 * RWD, without a differential. The rear axle uses a 12:36 bevel gear instead of a normal differential for better "offroad" capabilities.
 * Steering: PF Servo motor
-* Propulsion: PF L motor
+* Driving: PF L motor
 * Powered by a CaDA RC unit
 * Custom lights - powered by a separate battery box (2 x AA), placed on top of the cabin
 * Manual winch (like in the original set)

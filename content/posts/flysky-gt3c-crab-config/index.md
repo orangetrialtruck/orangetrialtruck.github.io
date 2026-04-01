@@ -13,6 +13,7 @@ categories: []
 
 toc:
   enable: false
+hiddenFromHomePage: true
 ---
 
 In this video I show how to setup 4 wheels steering (4WS) and switching between front / full / rear steering modes on a FlySky GT3C radio with [alternative firmware](https://github.com/semerad/gt3b).

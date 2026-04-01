@@ -4,7 +4,7 @@ title: "About"
 
 Hello there, 
 
-My name is Yuri and I share here my experiments with LEGO® Technic and more.
+My name is Yuri and I show here my DIY projects.
 
 
 #### Contacts 

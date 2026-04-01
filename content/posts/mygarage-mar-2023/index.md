@@ -9,6 +9,7 @@ resources:
 
 tags: ["My garage"]
 categories: []
+hiddenFromHomePage: true
 ---
 
 This week my garage on the shelf looks like this: [Toyota Hilux]({{< ref "/posts/toyota-hilux" >}}), [Land Rover Defender]({{< ref "/posts/42110-landrover-v04" >}}) and ... the orange gentleman is back! I completed the modification of the [Unimog]({{< ref "/posts/8110-unimog-v02" >}}) and am happy with the result (well, at least for now). I hope I will find time soon and take cool pictures and maybe a video.

@@ -53,7 +53,7 @@ I achieved my goal: the resulting model retained its original appearance and all
 
 ## Specs 
 * Steering: Geek Servo motor
-* Propulsion: 2 * PF L motors
+* Driving: 2 * PF L motors
 * Fifth wheel lock: CaDA micro motor
 * Fake engine: Not connected to the drivetrain, driven by a "geek servo" red motor
 * 4x4 without center differential

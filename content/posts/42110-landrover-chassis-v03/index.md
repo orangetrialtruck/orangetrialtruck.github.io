@@ -5,6 +5,7 @@ date: 2022-11-05T19:45:47+01:00
 draft: false
 description: ""
 images: []
+hiddenFromHomePage: true
 resources:
 - name: "featured-image"
   src: "images/featured_image.jpg"
@@ -27,7 +28,7 @@ Based on and inspired by the following MOCs:
 * Ackermann steering: [MOC-41043](https://rebrickable.com/mocs/MOC-41043/jmarshall/42110-landrover-defender-ackermann-steering-modification)
 
 ### Specs 
-* Propulsion: 2 PF L motors
+* Driving: 2 PF L motors
 * Steering: PF Servo motor
 * Planetary wheel hubs
 * Open differentials in axles

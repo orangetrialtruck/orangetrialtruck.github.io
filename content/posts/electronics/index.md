@@ -3,7 +3,6 @@ title: "Notes about the electronics I use"
 date: 2023-01-01T01:01:01+01:00
 lastmod: 2023-09-02T01:01:01+01:00
 draft: false
-hiddenFromHomePage: true
 description: ""
 images: []
 resources:
@@ -15,7 +14,7 @@ categories: []
 
 toc:
   enable: false
-
+hiddenFromHomePage: true
 ---
 
 ## Motors' characteristics at 9V

@@ -3,7 +3,6 @@ title: "All cars' specs"
 date: 2023-01-01T01:01:01+01:00
 lastmod: 2024-09-08T17:00:59+01:00
 draft: false
-hiddenFromHomePage: true
 description: ""
 images: []
 resources:
@@ -15,7 +14,7 @@ categories: ["highlights"]
 
 toc:
   enable: false
-
+hiddenFromHomePage: true
 ---
 
 Main specs of every car I've ever built.

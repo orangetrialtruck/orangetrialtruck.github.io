@@ -3,6 +3,7 @@ title: "8110 Unimog MOD, v1"
 date: 2021-12-24T22:15:01+08:00
 draft: false
 description: ""
+hiddenFromHomePage: true
 images: []
 resources:
 - name: "featured-image"
@@ -10,7 +11,6 @@ resources:
 
 tags: ["8110", "Unimog", "Mercedes"]
 categories: []
-hiddenFromHomePage: false
 ---
 
 This is my first modification of the LEGO [8110 Unimog U400](https://rebrickable.com/sets/8110-1/unimog-u400/) set. I bought it on the secondary market without the pneumatic parts and decided to turn it into a trial truck. I kept the original exterior and interior, removed the transfer case, and added separate motors for the front and rear power take-off (PTO), as well as one PF XL motor for driving and a servo motor for steering. 
@@ -23,7 +23,7 @@ Based on and inspired by [MOC-3286](https://rebrickable.com/mocs/MOC-3286/jb70/8
 
 ## Specs
 * Steering: PF Servo motor
-* Propulsion: PF XL motor
+* Driving: PF XL motor
 * Open differentials in axles (no locks)
 * Open central differential (no locks)
 * Front PTO: PF M motor

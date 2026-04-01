@@ -102,7 +102,7 @@ In the end, I am very satisfied with the model – it has a cool appearance, eno
 ## Electronics
 
 ## Specs
-* Propulsion: 4 PF-compatible L motors (non-original with higher RPM)
+* Driving: 4 PF-compatible L motors (non-original with higher RPM)
 * Steering: GeekServo motor + separate GeekServo motor for the steering wheel
 * Planetary wheel hubs
 * Lockable differential in the rear axle

@@ -9,6 +9,7 @@ resources:
 
 tags: ["My garage"]
 categories: []
+hiddenFromHomePage: true
 ---
 
 This week my garage on the shelf looks like this: [Toyota Hilux]({{< ref "/posts/toyota-hilux" >}}), [Land Rover Defender]({{< ref "/posts/42110-landrover-v04" >}}) and [disassembled Unimog]({{< ref "/posts/8110-unimog-v01" >}}).

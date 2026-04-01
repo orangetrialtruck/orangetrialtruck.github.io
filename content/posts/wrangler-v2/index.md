@@ -57,7 +57,7 @@ In the end, I really like the result - the model exceeded my expectations in ter
 The only feature I wish it had - a locking differential on the rear axle (or even on both axles), but I don't see an easy solution to add it. Fortunately, the suspension has good articulation, which partly compensates for the lack of differential locks.
 
 ## Specs
-* Propulsion: 4 PF-compatible L motors (non-original with higher RPM)
+* Driving: 4 PF-compatible L motors (non-original with higher RPM)
 * Steering: 2 GeekServos, 4 wheels steering
 * 4 types of steering (only front, only rear, both, crab)
 * Planetary wheel hubs

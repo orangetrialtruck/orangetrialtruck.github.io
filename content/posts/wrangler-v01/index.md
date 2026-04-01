@@ -13,6 +13,7 @@ categories: ["highlights"]
 
 toc:
   enable: false
+hiddenFromHomePage: true
 ---
 
 After finishing the [42110 Land Rover Defender, v4]({{< ref "/posts/42110-landrover-v04" >}}), I decided to build a classic Wrangler Jeep Rubicon which would be lighter and more off-road capable.
@@ -29,7 +30,7 @@ The gearbox and both differentials are protected by panels.
 <!--more-->
 
 ## Specs
-* Propulsion: 2 PF-compatible L motors (non-original with higher RPM)
+* Driving: 2 PF-compatible L motors (non-original with higher RPM)
 * Steering: PF Servo motor
 * Planetary wheel hubs
 * Open differentials in axles

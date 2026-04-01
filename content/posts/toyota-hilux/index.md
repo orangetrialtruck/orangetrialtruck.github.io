@@ -4,6 +4,7 @@ date: 2023-01-08T10:00:01+08:00
 draft: false
 description: ""
 images: []
+hiddenFromHomePage: true
 resources:
 - name: "featured-image"
   src: "images/featured_image.jpg"
@@ -20,7 +21,7 @@ I added custom LED lights (front and rear), modified the steering mechanism a bi
 
 ## Specs:
 * Steering: PF Servo motor
-* Propulsion: PF XL motor
+* Driving: PF XL motor
 * Full-time AWD
 * Gearing: 24x24 -> 12:28 (new differentials). Gear ratio: 2.33:1
 * Turning diameter (by wheels): 136cm

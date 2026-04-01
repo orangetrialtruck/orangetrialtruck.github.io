@@ -4,13 +4,13 @@ date: 2023-01-28T01:21:32+08:00
 draft: false
 description: ""
 images: []
+hiddenFromHomePage: true
 resources:
 - name: "featured-image"
   src: "images/featured_image.jpg"
 
 tags: ["8110", "Unimog", "WIP", "Mercedes"]
 categories: []
-hiddenFromHomePage: false
 ---
 
 The first version of the [Unimog 8110]({{< ref "/posts/8110-unimog-v01" >}}) was staying on the shelf for almost a year before I decided to improve it. 
@@ -25,7 +25,7 @@ Unfortunately, the center differential turned out to be a weak point. Due to the
 
 ## Specs 
 * Steering: PF Servo motor, based on [MOC-3286](https://rebrickable.com/mocs/MOC-3286/jb70/8110-unimog-moc-rc/#details)
-* Propulsion: 2 * PF XL motors (non-original with higher RPM) - both connected to the central differential
+* Driving: 2 * PF XL motors (non-original with higher RPM) - both connected to the central differential
 * Full-time AWD with lockable center differential (CaDA micro motor)
 * Open differentials in axles (no locks)
 * Turning diameter (by wheels):

@@ -10,6 +10,7 @@ resources:
 
 tags: ["8110", "Unimog", "video", "Mercedes"]
 categories: []
+hiddenFromHomePage: true
 ---
 
 This is the third (and final, for now) version of my trial truck built from the LEGO [8110 Unimog U400](https://rebrickable.com/sets/8110-1/unimog-u400/) set. In this version, I managed to fix some issues with the chassis and improve the overall appearance. Thanks to [portal hubs](https://rebrickable.com/parts/92908/technic-steering-portal-axle-housing/) and new differentials, the truck is powerful enough, but at the same time it's not a crawler, it's fun to play with both inside and outside.
@@ -37,7 +38,7 @@ Instead of the original gray panel body, I made a lightweight orange trial-style
 
 ## Specs 
 * Steering: PF Servo motor, based on [MOC-3286](https://rebrickable.com/mocs/MOC-3286/jb70/8110-unimog-moc-rc/#details)
-* Propulsion: 2 * PF XL motors (non-original with higher RPM)
+* Driving: 2 * PF XL motors (non-original with higher RPM)
 * 4x4 drive, no center differential
 * Open differentials in axles (no locks)
 * Turning diameter (by wheels): 132cm

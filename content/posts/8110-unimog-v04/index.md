@@ -23,7 +23,7 @@ The cabin is almost the same as in the [previous version]({{< ref "/posts/8110-u
 
 ## Specs 
 * Steering: Geek Servo motor
-* Propulsion: 4 * PF L motors (non-original with higher RPM)
+* Driving: 4 * PF L motors (non-original with higher RPM)
 * Full-time AWD with lockable center differential in the low gear
 * Open differentials in axles (no locks)
 * Two speed gearbox switched by a Geek Servo
